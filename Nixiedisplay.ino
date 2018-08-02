@@ -1,3 +1,4 @@
+//By R.J. de Kok - (c) 2018
 #include "Arduino.h"
 #include <Wire.h>
 #define DS3231_I2C_ADDRESS 0x68
